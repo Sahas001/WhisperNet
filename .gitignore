@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+frontend/.next/
+frontend/out/
+
+# Go
+backend/bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Env files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
