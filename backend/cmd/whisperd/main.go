@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Starting whisperd dameon...")
+	fmt.Println("Starting whisperd daemon...")
 }
